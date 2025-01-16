@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import logo from '../../assets/img/Logo.png';
+import logo from '../../assets/img/logo.png';
 
 const COLORES = {
   primario: '#2171D1',
